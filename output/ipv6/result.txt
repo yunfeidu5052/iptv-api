@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-31 18:24:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-01 06:20:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -565,6 +565,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-12.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-8.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
@@ -596,6 +598,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-15.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-13.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-5.ctv
+佛山综合,https://t.freetv.fun/live/fo-shan-zong-he.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
@@ -604,6 +607,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
